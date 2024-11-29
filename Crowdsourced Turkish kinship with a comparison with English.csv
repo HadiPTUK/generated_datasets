@@ -1,0 +1,18 @@
+﻿English lemma,English definition,Turkish lemmas or GAP,Turkish definition
+cousin,the child of your aunt or uncle,GAP,GAP
+grandchild,a child of your son or daughter ,torun,Bir kimseye göre çocuğunun çocuğu
+grandson,a male grandchild,erkek torun,Bir kimseye göre çocuğunun erkek çocuğu
+granddaughter,a female grandchild,kız torun,Bir kimseye göre çocuğunun kız çocuğu
+grandkid,a female grandchild,torun,Bir kimseye göre çocuğunun çocuğu
+grandparent,a parent of your father or mother,GAP,GAP
+"grandfather, grandpa, gramps",the father of your father or mother,"dede, büyükbaba",anne-babanın babası
+"grandmother, grandma, granny",the mother of your father or mother,"büyükanne, nine",anne-babanın annesi
+niece,a daughter of your brother or sister,erkek yeğen,Birine göre kardeşin erkek çocuğu
+nephew,a son of your brother or sister,kız yeğen,Birine göre kardeşin kız çocuğu
+uncle,the brother of your father or mother; the husband of your aunt,GAP,GAP
+aunt,he sister of your father or mother; the wife of your uncle,GAP,GAP
+sibling,a person's brother or sister,kardeş,Aynı anne babadan doğmuş veya anne babalarından biri aynı olan çocukların birbirine göre adı
+brother,a male with the same parents as someone else,erkek kardeş,Bir kimsenin erkek cinsten kardeşi.
+sister,a female person who has the same parents as another person,kız kardeş,Bir kimsenin dişi cinsten kardeşi
+father,father,baba,Çocuğu olan erkek
+mother,mother,"anne, ana",Çocuğu olan kadın
